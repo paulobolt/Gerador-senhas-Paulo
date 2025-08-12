@@ -1,0 +1,1 @@
+const numeroSenhas = document.querySelector
